@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="412dbda1-749f-4c85-b595-afde2c1cc917" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/PhotoAlbum_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/PhotoAlbumMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/controller/IPhotoAlbumController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/controller/PhotoAlbumController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/IPhotoAlbum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/ISnapshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/PhotoAlbumImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/PhotoAlbumMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/SnapshotImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/shapes/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/shapes/Oval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/shapes/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/shapes/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/shapes/component/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/model/shapes/component/Point2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/util/ColorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/util/FileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/util/FileToModelParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/util/IShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/util/ShapeAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/view/DrawingPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/view/IPhotoAlbumView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/view/PhotoAlbumGraphicalView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/view/PhotoAlbumViewMock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/album/view/PhotoAlbumWebView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ColorAdapterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ColorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/FileParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IPhotoAlbumControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IPhotoAlbumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IShapeFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ISnapshotTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PhotoAlbumWebViewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Point2DTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ShapeAdapterTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HfFzZ4wJt2aGa9z6oyBxLCspiA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit4&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4&quot;: &quot;&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Trang Ngo/Downloads/hw7&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="album" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="album.util" />
+      <recent name="album" />
+      <recent name="album.shapes" />
+      <recent name="album.shapes.component" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PhotoAlbum">
+    <configuration name="PhotoAlbum" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="album.PhotoAlbumMain" />
+      <module name="HW7" />
+      <option name="PROGRAM_PARAMETERS" value="-in resources/buildings.txt -v graphical -out buildingsOut.html 800 800" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileToModelParserTest.testParse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FileToModelParserTest" />
+      <option name="METHOD_NAME" value="testParse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IPhotoAlbumControllerTest.testBuildPhotoAlbumFromFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IPhotoAlbumControllerTest" />
+      <option name="METHOD_NAME" value="testBuildPhotoAlbumFromFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ISnapshotTest.testGetShapes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ISnapshotTest" />
+      <option name="METHOD_NAME" value="testGetShapes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PhotoAlbumWebViewTest.display" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PhotoAlbumWebViewTest" />
+      <option name="METHOD_NAME" value="display" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShapeAdapterTest.testIShapeToSVGMarkup" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HW7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ShapeAdapterTest" />
+      <option name="METHOD_NAME" value="testIShapeToSVGMarkup" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PhotoAlbum" />
+      <item itemvalue="JUnit.PhotoAlbumWebViewTest.display" />
+      <item itemvalue="JUnit.FileToModelParserTest.testParse" />
+      <item itemvalue="JUnit.IPhotoAlbumControllerTest.testBuildPhotoAlbumFromFile" />
+      <item itemvalue="JUnit.ShapeAdapterTest.testIShapeToSVGMarkup" />
+      <item itemvalue="JUnit.ISnapshotTest.testGetShapes" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PhotoAlbumWebViewTest.display" />
+        <item itemvalue="JUnit.ShapeAdapterTest.testIShapeToSVGMarkup" />
+        <item itemvalue="JUnit.FileToModelParserTest.testParse" />
+        <item itemvalue="JUnit.IPhotoAlbumControllerTest.testBuildPhotoAlbumFromFile" />
+        <item itemvalue="JUnit.ISnapshotTest.testGetShapes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="412dbda1-749f-4c85-b595-afde2c1cc917" name="Changes" comment="" />
+      <created>1668668497663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668668497663</updated>
+      <workItem from="1668668499305" duration="11397000" />
+      <workItem from="1668872702878" duration="598000" />
+      <workItem from="1669097406907" duration="14266000" />
+      <workItem from="1669268550378" duration="2337000" />
+      <workItem from="1669599681462" duration="14567000" />
+      <workItem from="1669615845724" duration="8667000" />
+      <workItem from="1669691241627" duration="333000" />
+      <workItem from="1669692824257" duration="4872000" />
+      <workItem from="1669697829476" duration="582000" />
+      <workItem from="1669698437079" duration="8826000" />
+      <workItem from="1669752472848" duration="32814000" />
+      <workItem from="1669842358901" duration="8130000" />
+      <workItem from="1669865822489" duration="4842000" />
+      <workItem from="1669870899486" duration="67000" />
+      <workItem from="1669880332365" duration="3516000" />
+      <workItem from="1669925984002" duration="1203000" />
+      <workItem from="1669952387291" duration="14429000" />
+      <workItem from="1670265224510" duration="1063000" />
+      <workItem from="1670268675244" duration="412000" />
+      <workItem from="1670269209508" duration="16709000" />
+      <workItem from="1670486096228" duration="94000" />
+      <workItem from="1670609456882" duration="6527000" />
+      <workItem from="1670790756791" duration="1085000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

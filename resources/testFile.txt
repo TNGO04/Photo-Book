@@ -1,0 +1,28 @@
+# Testing comment is skipped
+    
+    shape   R   rectangle  200  200 50  100  255  255  255
+shape   O   oval  200  200 50  100  0  0  0
+
+	snapshot
+
+move O 300 300
+snapshot
+
+remove O
+
+snapshot final snapshot 
+
+remove O
+remove
+
+shape   R   oval  200  200 50  100  0  0  0
+shape R
+
+move O 300 300
+move O
+
+color O 20 50 30
+color O
+
+resize O 10 30
+resize O
